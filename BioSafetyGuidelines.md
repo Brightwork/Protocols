@@ -15,12 +15,9 @@ in these guidelines fall into six major categories: personal protection, laborat
 cultures, standard laboratory practices, training, and documents. For ease of use, the requirements and 
 practices are brief. Explanatory notes, sample documents, and additional resources are in the appendix.
 <<<<<<< HEAD
-Personal Protection Requirements
---------------------------------
-=======
+
 ##Personal Protection Requirements
 ---------------------------------
->>>>>>> commit
 * Wear safety goggles or safety glasses when handling liquid cultures, when performing procedures that 
 may create a splash hazard, or when spread plating.
 * Wear closed-toe shoes that cover the top of the foot.
@@ -29,19 +26,19 @@ when handling hazardous chemicals. Gloves are not required for standard laborato
 proper hand hygiene is performed. Proper hand hygiene involves thorough hand cleansing prior to and 
 immediately after finishing handling microorganisms and any time that microbes accidentally contact 
 the skin. Hand cleansing is performed by washing with soap and water or rubbing with an alcoholbased hand sanitizer.
-* Recommended: Wear laboratory coats.
+### Recommended:#### Wear laboratory coats.
 
 Laboratory Physical Space Requirements
 ----------------------------------
-* Require all laboratory space to include:
-** Nonporous floor, bench tops, chairs, and stools.
-** Sink for hand washing.
-o Eyewash station.
-o Lockable door to the room.
+Require all laboratory space to include:
+* Nonporous floor, bench tops, chairs, and stools.
+* Sink for hand washing.
+* Eyewash station.
+* Lockable door to the room.
 * Follow proper pest control practices.
-* Recommended: Keep personal belongings in an area separate from the work area.
-* Recommended: Use a working and validated autoclave.
-##Stock Culture Requirements
+Recommended: Keep personal belongings in an area separate from the work area.
+Recommended: Use a working and validated autoclave.
+## Stock Culture Requirements
 * Only use cultures from authorized, commercial, or reputable sources (e.g., an academic laboratory or 
 state health department). Do not subculture unknown microbes isolated from the environment because 
 they may be organisms that require BSL2 practices and facilities.
