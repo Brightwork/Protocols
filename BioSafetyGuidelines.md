@@ -1,6 +1,6 @@
 Biosafety level 1 (BSL1) guidelines for teaching laboratories.
 ==============================================================
-##Preamble:## Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
+##Preamble: Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
 and must use best practices to minimize the risk to students and the community. The following guidelines 
 are designed to encourage awareness of the risks, promote uniformity in best teaching practices, and 
 protect the health and wellness of our students. These guidelines are not mandatory, but are designed to 
