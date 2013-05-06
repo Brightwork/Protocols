@@ -15,7 +15,7 @@ in these guidelines fall into six major categories: personal protection, laborat
 cultures, standard laboratory practices, training, and documents. For ease of use, the requirements and 
 practices are brief. Explanatory notes, sample documents, and additional resources are in the appendix.
 Personal Protection Requirements
----------------------------------
+--------------------------------
 * Wear safety goggles or safety glasses when handling liquid cultures, when performing procedures that 
 may create a splash hazard, or when spread plating.
 * Wear closed-toe shoes that cover the top of the foot.
