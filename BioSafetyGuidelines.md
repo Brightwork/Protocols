@@ -1,6 +1,7 @@
 Biosafety level 1 (BSL1) guidelines for teaching laboratories.
 ==============================================================
-##Preamble: Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
+##Preamble: 
+Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
 and must use best practices to minimize the risk to students and the community. The following guidelines 
 are designed to encourage awareness of the risks, promote uniformity in best teaching practices, and 
 protect the health and wellness of our students. These guidelines are not mandatory, but are designed to 
@@ -14,7 +15,6 @@ the appropriate circumstances. Many best practices should be adopted to minimize
 in these guidelines fall into six major categories: personal protection, laboratory physical space, stock 
 cultures, standard laboratory practices, training, and documents. For ease of use, the requirements and 
 practices are brief. Explanatory notes, sample documents, and additional resources are in the appendix.
-<<<<<<< HEAD
 
 ##Personal Protection Requirements
 ---------------------------------
@@ -46,7 +46,7 @@ they may be organisms that require BSL2 practices and facilities.
 * Obtain fresh stock cultures of microorganisms annually (e.g., purchased, revived from frozen stock 
 cultures, etc.) to be certain of the source culture, minimize spontaneous mutations, and reduce 
 contamination.
-##Standard Laboratory Practices
+## Standard Laboratory Practices
 * Wash hands after entering and before exiting the laboratory.
 * Tie back long hair.
 * Do not wear dangling jewelry.
@@ -77,10 +77,10 @@ state, and federal guidelines.
 * Advise immune-compromised students (including those who are pregnant or may become pregnant) 
 and students living with or caring for an immune-compromised individual to consult physicians to 
 determine the appropriate level of participation in the laboratory.
-* Recommended: Keep note-taking and discussion practices separate from work with hazardous or 
+Recommended: Keep note-taking and discussion practices separate from work with hazardous or 
 infectious material.
-* Recommended: Use microincinerators or disposable loops rather than Bunsen burners.
-##Training Practices
+Recommended: Use microincinerators or disposable loops rather than Bunsen burners.
+## Training Practices
 * Be aware that student assistants may be employees of the institution and subject to OSHA, state, 
 and/or institutional regulations.
 * Conduct extensive initial training for instructors and student assistants to cover the safety hazards of 
@@ -91,7 +91,7 @@ conduct the training.
 * Require students and instructors to handle microorganisms safely and responsibly.
 * Inform students of safety precautions relevant to each exercise before beginning the exercise.
 * Emphasize to students the importance of reporting accidental spills and exposures.
-##Document Practices
+## Document Practices
 * Require students to sign safety agreements explaining that they have been informed about safety 
 precautions and the hazardous nature of the organisms they will handle throughout the course.
 * Maintain student-signed safety agreements at the institution.
@@ -102,8 +102,8 @@ guidelines regarding number of copies, availability via print or electronic form
 * Post emergency procedures and updated contact information in the laboratory.
 * Maintain and make available (e.g., in a syllabus, in a laboratory manual, or online) to all students a list 
 of all cultures (and their sources) used in the course.Guidelines for Biosafety in Teaching Laboratories Page 3
-#Biosafety level 2 (BSL2) guidelines for Brightwork CoResearch.
-##Preamble:## Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
+# Biosafety level 2 (BSL2) guidelines for Brightwork CoResearch.
+## Preamble: ## Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
 and must use best practices to minimize the risk to themselves, students, and the community. The 
 following guidelines are designed to encourage awareness of the risks, uniformity in best teaching 
 practices, and safety of the students. These guidelines are not mandatory, but are designed to promote 
@@ -119,7 +119,7 @@ practices. The practices set forth in these guidelines fall into six major categ
 laboratory physical space, stock cultures, standard laboratory practices, training, and documents. For 
 ease of use, the requirements and practices are brief. Explanatory notes, sample documents, and 
 additional resources can be found in the appendix.
-##Personal Protection Requirements
+## Personal Protection Requirements
 * Wear safety goggles or safety glasses for normal laboratory procedures involving liquid cultures that do not 
 generate a splash hazard (e.g., proper pipetting, spread plates, etc.). Use safety goggles and face shields 
 or safety goggles and masks when performing procedures that may create a splash hazard. If work is 
