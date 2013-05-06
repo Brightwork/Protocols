@@ -16,8 +16,7 @@ in these guidelines fall into six major categories: personal protection, laborat
 cultures, standard laboratory practices, training, and documents. For ease of use, the requirements and 
 practices are brief. Explanatory notes, sample documents, and additional resources are in the appendix.
 
-##Personal Protection Requirements
----------------------------------
+## Personal Protection Requirements
 * Wear safety goggles or safety glasses when handling liquid cultures, when performing procedures that 
 may create a splash hazard, or when spread plating.
 * Wear closed-toe shoes that cover the top of the foot.
@@ -26,10 +25,9 @@ when handling hazardous chemicals. Gloves are not required for standard laborato
 proper hand hygiene is performed. Proper hand hygiene involves thorough hand cleansing prior to and 
 immediately after finishing handling microorganisms and any time that microbes accidentally contact 
 the skin. Hand cleansing is performed by washing with soap and water or rubbing with an alcoholbased hand sanitizer.
-### Recommended:#### Wear laboratory coats.
+Recommended: Wear laboratory coats.
 
-Laboratory Physical Space Requirements
-----------------------------------
+## Laboratory Physical Space Requirements
 Require all laboratory space to include:
 * Nonporous floor, bench tops, chairs, and stools.
 * Sink for hand washing.
@@ -38,7 +36,8 @@ Require all laboratory space to include:
 * Follow proper pest control practices.
 Recommended: Keep personal belongings in an area separate from the work area.
 Recommended: Use a working and validated autoclave.
-## Stock Culture Requirements
+
+### Stock Culture Requirements
 * Only use cultures from authorized, commercial, or reputable sources (e.g., an academic laboratory or 
 state health department). Do not subculture unknown microbes isolated from the environment because 
 they may be organisms that require BSL2 practices and facilities.
@@ -46,6 +45,7 @@ they may be organisms that require BSL2 practices and facilities.
 * Obtain fresh stock cultures of microorganisms annually (e.g., purchased, revived from frozen stock 
 cultures, etc.) to be certain of the source culture, minimize spontaneous mutations, and reduce 
 contamination.
+
 ## Standard Laboratory Practices
 * Wash hands after entering and before exiting the laboratory.
 * Tie back long hair.
@@ -80,6 +80,7 @@ determine the appropriate level of participation in the laboratory.
 Recommended: Keep note-taking and discussion practices separate from work with hazardous or 
 infectious material.
 Recommended: Use microincinerators or disposable loops rather than Bunsen burners.
+
 ## Training Practices
 * Be aware that student assistants may be employees of the institution and subject to OSHA, state, 
 and/or institutional regulations.
@@ -91,6 +92,7 @@ conduct the training.
 * Require students and instructors to handle microorganisms safely and responsibly.
 * Inform students of safety precautions relevant to each exercise before beginning the exercise.
 * Emphasize to students the importance of reporting accidental spills and exposures.
+
 ## Document Practices
 * Require students to sign safety agreements explaining that they have been informed about safety 
 precautions and the hazardous nature of the organisms they will handle throughout the course.
@@ -102,7 +104,9 @@ guidelines regarding number of copies, availability via print or electronic form
 * Post emergency procedures and updated contact information in the laboratory.
 * Maintain and make available (e.g., in a syllabus, in a laboratory manual, or online) to all students a list 
 of all cultures (and their sources) used in the course.Guidelines for Biosafety in Teaching Laboratories Page 3
+
 # Biosafety level 2 (BSL2) guidelines for Brightwork CoResearch.
+
 ## Preamble: ## Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
 and must use best practices to minimize the risk to themselves, students, and the community. The 
 following guidelines are designed to encourage awareness of the risks, uniformity in best teaching 
@@ -119,6 +123,7 @@ practices. The practices set forth in these guidelines fall into six major categ
 laboratory physical space, stock cultures, standard laboratory practices, training, and documents. For 
 ease of use, the requirements and practices are brief. Explanatory notes, sample documents, and 
 additional resources can be found in the appendix.
+
 ## Personal Protection Requirements
 * Wear safety goggles or safety glasses for normal laboratory procedures involving liquid cultures that do not 
 generate a splash hazard (e.g., proper pipetting, spread plates, etc.). Use safety goggles and face shields 
@@ -127,23 +132,25 @@ performed in a biological safety cabinet, goggles and face shields/masks do not 
 * Wear closed-toe shoes that cover the top of the foot.
 * Wear gloves when handling microorganisms or hazardous chemicals.
 * Wear laboratory coats.
+
 ##Laboratory Physical Space Requirements
-* Require all laboratory space to include:
-o Nonporous floor, bench tops, chairs, and stools.
-o Sink for hand washing.
-o Eyewash station.
-o Lockable door to the room.
+Require all laboratory space to include:
+* Nonporous floor, bench tops, chairs, and stools.
+* Sink for hand washing.
+* Eyewash station.
+* Lockable door to the room.
 * Follow proper pest control practices.
 * Keep the storage area for personal belongings separate from work area.
 * Keep a working and validated autoclave in the building or arrange for licensed waste removal 
 according to local, state, and federal regulations..
 * Post biohazard signage
-o wherever cultures are used and stored.
-o on the door to the room.
-o on any containers used to transport cultures.
-* Recommended: Have a biological safety cabinet. The biological safety cabinet is required when large 
+** wherever cultures are used and stored.
+** on the door to the room.
+** on any containers used to transport cultures.
+Recommended: Have a biological safety cabinet. The biological safety cabinet is required when large 
 volumes of culture are used or when a procedure will create aerosols.
-##Stock Culture Requirements
+
+## Stock Culture Requirements
 * Only use cultures from authorized, commercial, or reputable sources (e.g., an academic laboratory or 
 state health department). Maintain documents about stock organisms, sources, and handling of stock 
 cultures.
@@ -151,7 +158,8 @@ cultures.
 cultures, etc.) to be certain of the source culture, minimize spontaneous mutations, and reduce 
 contamination.
 * Keep stock cultures in a secure area.
-Standard Laboratory Practices
+
+## Standard Laboratory Practices
 * Wash hands after entering and before exiting the laboratory.
 * Tie back long hair.
 * Do not wear dangling jewelry.Guidelines for Biosafety in Teaching Laboratories Page 4
@@ -184,7 +192,8 @@ and federal regulations.
 * Advise immune-compromised students (including those who are pregnant or may become pregnant) 
 and students living with or caring for an immune-compromised individual to consult physicians to 
 determine the appropriate level of participation in the laboratory.
-##Training Practices
+
+## Training Practices
 * Be aware that student assistants may be employees of the institution and subject to OSHA, state, 
 and/or institutional regulations.
 * Conduct extensive initial training for instructors and student assistants to cover the safety hazards of 
@@ -196,7 +205,8 @@ conduct the training.
 * Require students to demonstrate competency at BSL1 before working in a BSL2 laboratory.
 * Inform students of safety precautions relevant to each exercise before beginning the exercise.
 * Emphasize to students the importance of reporting accidental spills and exposures.
-##Document Practices
+
+## Document Practices
 * Require students to sign safety agreements explaining that they have been informed about safety 
 precautions and the hazardous nature of the organisms they will handle throughout the course.
 * Maintain student-signed safety agreements at the institution.
