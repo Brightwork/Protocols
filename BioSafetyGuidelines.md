@@ -14,8 +14,13 @@ the appropriate circumstances. Many best practices should be adopted to minimize
 in these guidelines fall into six major categories: personal protection, laboratory physical space, stock 
 cultures, standard laboratory practices, training, and documents. For ease of use, the requirements and 
 practices are brief. Explanatory notes, sample documents, and additional resources are in the appendix.
+<<<<<<< HEAD
 Personal Protection Requirements
 --------------------------------
+=======
+##Personal Protection Requirements
+---------------------------------
+>>>>>>> commit
 * Wear safety goggles or safety glasses when handling liquid cultures, when performing procedures that 
 may create a splash hazard, or when spread plating.
 * Wear closed-toe shoes that cover the top of the foot.
@@ -25,11 +30,12 @@ proper hand hygiene is performed. Proper hand hygiene involves thorough hand cle
 immediately after finishing handling microorganisms and any time that microbes accidentally contact 
 the skin. Hand cleansing is performed by washing with soap and water or rubbing with an alcoholbased hand sanitizer.
 * Recommended: Wear laboratory coats.
+
 Laboratory Physical Space Requirements
 ----------------------------------
 * Require all laboratory space to include:
-o Nonporous floor, bench tops, chairs, and stools.
-o Sink for hand washing.
+** Nonporous floor, bench tops, chairs, and stools.
+** Sink for hand washing.
 o Eyewash station.
 o Lockable door to the room.
 * Follow proper pest control practices.
