@@ -107,7 +107,8 @@ of all cultures (and their sources) used in the course.Guidelines for Biosafety 
 
 # Biosafety level 2 (BSL2) guidelines for Brightwork CoResearch.
 
-## Preamble: ## Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
+## Preamble: 
+Educators need to be aware of the risks inherent in using microorganisms in the laboratory 
 and must use best practices to minimize the risk to themselves, students, and the community. The 
 following guidelines are designed to encourage awareness of the risks, uniformity in best teaching 
 practices, and safety of the students. These guidelines are not mandatory, but are designed to promote 
